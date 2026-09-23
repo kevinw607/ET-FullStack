@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.papeleria.seguridad.controller.UsuarioControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.067 s -- in com.papeleria.seguridad.controller.UsuarioControllerTest
